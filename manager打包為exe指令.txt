@@ -1,0 +1,2 @@
+conda activate pyin
+nuitka --standalone --output-dir=.\dist launch.py --enable-plugin=tk-inter
